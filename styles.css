@@ -1,5 +1,8 @@
 .product {
     padding: 15px;
+    /* generate space around an element's content, inside of any defined borders */
     margin: 10px;
+    /* generate space around an element, outside of any defined borders */
     border: 1px solid black;
+    /* border-width | border-style | border-color --- a shorthand property used to set the border on an element */
 }
